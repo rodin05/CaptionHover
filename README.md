@@ -3,6 +3,7 @@
 
 # How to use 
 First add "box" class to your HTML tag like this :
-``HTML
+
+```
 <div class="box"></div>
 ```
